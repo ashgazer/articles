@@ -1,0 +1,13 @@
+# Obsidian per-device UI state — causes merge conflicts, no real content
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/cache/
+.obsidian/plugins/*/.cache/
+
+# Trash
+.trash/
+
+# OS/system clutter
+.DS_Store
+Thumbs.db
