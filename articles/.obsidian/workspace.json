@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "2026-07-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "2026-07-15"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,9 +194,10 @@
   },
   "active": "53e137cdcf33dc9c",
   "lastOpenFiles": [
+    "Donald Trump has no good options for reopening the Strait of Hormuz.md",
+    "Welcome.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "2026-07-15.md",
-    "Welcome.md"
+    "2026-07-15.md"
   ]
 }
