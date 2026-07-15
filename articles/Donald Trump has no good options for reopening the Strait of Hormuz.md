@@ -1,13 +1,21 @@
 ---
-title: "Donald Trump has no good options for reopening the Strait of Hormuz"
-source: "https://www.economist.com/middle-east-and-africa/2026/07/14/donald-trump-has-no-good-options-for-reopening-the-strait-of-hormuz"
+title: Donald Trump has no good options for reopening the Strait of Hormuz
+source: >-
+  https://www.economist.com/middle-east-and-africa/2026/07/14/donald-trump-has-no-good-options-for-reopening-the-strait-of-hormuz
 author:
-  - "[[The Economist]]"
-published: 2026-07-14
-created: 2026-07-15
-description: "Donald Trump's preliminary peace deal with Iran unravels as fighting resumes in the Strait of Hormuz, with missile strikes and collapsed shipping traffic threatening oil markets. | Middle East & Africa"
+  - '[[The Economist]]'
+published: 2026-07-14T00:00:00.000Z
+created: 2026-07-15T00:00:00.000Z
+description: >-
+  Donald Trump's preliminary peace deal with Iran unravels as fighting resumes
+  in the Strait of Hormuz, with missile strikes and collapsed shipping traffic
+  threatening oil markets. | Middle East & Africa
 tags:
-  - "clippings"
+  - strait-of-hormuz
+  - iran-us-relations
+  - middle-east-conflict
+  - oil-markets
+  - tanker-attacks
 ---
 | A straitjacket of their own making
 
