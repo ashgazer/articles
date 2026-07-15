@@ -4,6 +4,7 @@
 .obsidian/cache
 .obsidian/plugins/*/cache/
 .obsidian/plugins/*/.cache/
+articles/.obsidian/*
 
 # Trash
 .trash/
