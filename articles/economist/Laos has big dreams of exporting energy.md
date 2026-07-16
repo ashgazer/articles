@@ -1,13 +1,21 @@
 ---
-title: "Laos has big dreams of exporting energy"
-source: "https://www.economist.com/asia/2026/07/09/laos-has-big-dreams-of-exporting-energy"
+title: Laos has big dreams of exporting energy
+source: >-
+  https://www.economist.com/asia/2026/07/09/laos-has-big-dreams-of-exporting-energy
 author:
-  - "[[The Economist]]"
-published: 2026-07-09
-created: 2026-07-15
-description: "Laos aims to become South-East Asia's battery through hydropower exports, but Chinese investment has created debt problems and environmental concerns along the Mekong. | Asia"
+  - '[[The Economist]]'
+published: 2026-07-09T00:00:00.000Z
+created: 2026-07-15T00:00:00.000Z
+description: >-
+  Laos aims to become South-East Asia's battery through hydropower exports, but
+  Chinese investment has created debt problems and environmental concerns along
+  the Mekong. | Asia
 tags:
-  - "clippings"
+  - energy-export
+  - laos
+  - hydropower
+  - mekong-dam
+  - china-investment
 ---
 ## But its dams have flooded it with debt and other problems
 
