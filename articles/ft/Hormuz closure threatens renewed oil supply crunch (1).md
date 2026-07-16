@@ -1,13 +1,19 @@
 ---
-title: "Hormuz closure threatens renewed oil supply crunch"
-source: "https://www.ft.com/content/fb373886-413a-4fd5-84ff-b43acdc2ecbd?syn-25a6b1a6=1"
+title: Hormuz closure threatens renewed oil supply crunch
+source: https://www.ft.com/content/fb373886-413a-4fd5-84ff-b43acdc2ecbd?syn-25a6b1a6=1
 author:
-  - "[[Benjamin Wilhelm]]"
-published: 2026-07-16
-created: 2026-07-16
-description: "Also in today’s newsletter: New York’s data centre crackdown and the new era of critical mineral diplomacy"
+  - '[[Benjamin Wilhelm]]'
+published: 2026-07-16T00:00:00.000Z
+created: 2026-07-16T00:00:00.000Z
+description: >-
+  Also in today’s newsletter: New York’s data centre crackdown and the new era
+  of critical mineral diplomacy
 tags:
-  - "clippings"
+  - energy-source
+  - oil-supply-crunch
+  - strait-of-hormuz
+  - critical-minerals
+  - data-centre-regulation
 ---
 ![Several cargo ships are anchored in hazy waters in the Strait of Hormuz, viewed from the shore near Bandar Abbas, Iran.](https://images.ft.com/v3/image/raw/ftcms%3Ae244e7a7-ee8c-4204-b2df-90455a77428b?source=next-article&fit=scale-down&quality=highest&width=1440&dpr=1)
 

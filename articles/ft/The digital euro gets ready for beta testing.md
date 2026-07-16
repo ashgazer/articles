@@ -1,13 +1,17 @@
 ---
-title: "The digital euro gets ready for beta testing"
-source: "https://www.ft.com/content/0a0866c2-767e-4a7c-aed7-8955f77405eb?syn-25a6b1a6=1"
+title: The digital euro gets ready for beta testing
+source: https://www.ft.com/content/0a0866c2-767e-4a7c-aed7-8955f77405eb?syn-25a6b1a6=1
 author:
-  - "[[Martin Sandbu]]"
-published: 2026-07-16
-created: 2026-07-16
-description: "A brave new world for EU digital finance"
+  - '[[Martin Sandbu]]'
+published: 2026-07-16T00:00:00.000Z
+created: 2026-07-16T00:00:00.000Z
+description: A brave new world for EU digital finance
 tags:
-  - "clippings"
+  - digital-euro
+  - eu-finance
+  - cbdc
+  - blockchain
+  - euro-area
 ---
 ![](https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fuploaded-files%2FMartin_Sandbu-28ef39d5-4a4a-47dc-bdbf-f009445b17c2.png?source=next-article&fit=scale-down&quality=highest&width=150&dpr=2)
 

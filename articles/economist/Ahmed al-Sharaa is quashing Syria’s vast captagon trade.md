@@ -1,13 +1,21 @@
 ---
-title: "Ahmed al-Sharaa is quashing Syria’s vast captagon trade"
-source: "https://www.economist.com/middle-east-and-africa/2026/07/09/ahmed-al-sharaa-is-quashing-syrias-vast-captagon-trade"
+title: Ahmed al-Sharaa is quashing Syria’s vast captagon trade
+source: >-
+  https://www.economist.com/middle-east-and-africa/2026/07/09/ahmed-al-sharaa-is-quashing-syrias-vast-captagon-trade
 author:
-  - "[[The Economist]]"
-published: 2026-07-09
-created: 2026-07-15
-description: "Syria's new president Ahmed al-Sharaa cracks down on captagon production, but the amphetamine trade spreads to Lebanon, Jordan and beyond across the Middle East. | Middle East & Africa"
+  - '[[The Economist]]'
+published: 2026-07-09T00:00:00.000Z
+created: 2026-07-15T00:00:00.000Z
+description: >-
+  Syria's new president Ahmed al-Sharaa cracks down on captagon production, but
+  the amphetamine trade spreads to Lebanon, Jordan and beyond across the Middle
+  East. | Middle East & Africa
 tags:
-  - "clippings"
+  - captagon-trade
+  - syria-politics
+  - amphetamine-trade
+  - middle-east-drugs
+  - narcotics
 ---
 ## But pills that cost cents to produce still sell for $25
 
