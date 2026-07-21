@@ -1,3 +1,12 @@
+---
+tags:
+  - handling-little-digs
+  - communication-strategies
+  - conflict-resolution
+  - emotional-intelligence
+  - assertiveness
+---
+
 # Handling Little Digs: A Framework
 
 A practical approach for dealing with someone who often tucks small digs into otherwise normal sentences.

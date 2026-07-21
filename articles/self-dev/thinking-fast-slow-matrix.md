@@ -1,3 +1,12 @@
+---
+tags:
+  - machine-learning
+  - behavioral-bias
+  - cognitive-psychology
+  - decision-making-strategies
+  - everyday-matrix
+---
+
 # Thinking, Fast and Slow — Everyday Matrix
 
 Daniel Kahneman's central idea, then a practical table you can actually use.
