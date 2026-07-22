@@ -1,14 +1,11 @@
 ---
 title: Maintainability sensors for coding agents
-source: >-
-  https://martinfowler.com/articles/sensors-for-coding-agents.html#ConclusionsAndOpenQuestions
+source: https://martinfowler.com/articles/sensors-for-coding-agents.html#ConclusionsAndOpenQuestions
 author:
-  - '[[Birgitta Böckeler]]'
+  - "[[Birgitta Böckeler]]"
 published: 2026-05-27T00:00:00.000Z
 created: 2026-07-21T00:00:00.000Z
-description: >-
-  A practical walkthrough of computational sensors on the path to production,
-  with a deep dive on ESLint and static analysis as feedback for coding agents.
+description: A practical walkthrough of computational sensors on the path to production, with a deep dive on ESLint and static analysis as feedback for coding agents.
 tags:
   - result-maintainability-sensors
   - code-quality
