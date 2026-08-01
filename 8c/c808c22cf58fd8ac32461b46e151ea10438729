@@ -1,0 +1,19 @@
+articles/recipes/se_asian_recipes.md
+  s_79183a40352bcf::t_555c717014ae35 1-181
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "8cc808c22cf58fd8ac32461b46e151ea10438729",
+  "prompts": {},
+  "sessions": {
+    "s_79183a40352bcf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "739c4124-7a1f-4094-8f66-5c8f6f74631d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "ashgazer <ashik1000@hotmail.com>"
+    }
+  }
+}
