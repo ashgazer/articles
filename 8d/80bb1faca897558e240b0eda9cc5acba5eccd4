@@ -1,0 +1,25 @@
+"articles/book summaries/The Insider's Guide to Culture Change by Siobhan McHale.md"
+  s_79183a40352bcf::t_9c9ecdef4868cb 1-122
+"articles/recipes/Fragrant Thai Green Beef Curry.md"
+  s_79183a40352bcf::t_cdcf2913980bc0 1-176
+"articles/recipes/Rendang-Inspired Beef Mince Curry And Satay Gem Salad.md"
+  s_79183a40352bcf::t_22baf25d3a97a6 1-182
+"articles/recipes/Thai-Style Sticky Chilli Lean Beef & Rice Salad.md"
+  s_79183a40352bcf::t_18f9fda6bfe10b 1-174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "8d80bb1faca897558e240b0eda9cc5acba5eccd4",
+  "prompts": {},
+  "sessions": {
+    "s_79183a40352bcf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "739c4124-7a1f-4094-8f66-5c8f6f74631d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "ashgazer <ashik1000@hotmail.com>"
+    }
+  }
+}
