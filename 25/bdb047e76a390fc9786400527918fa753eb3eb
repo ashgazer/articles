@@ -1,0 +1,19 @@
+"articles/book summaries/Create Space by Derek Draper.md"
+  s_d2c5e8f18f5af9::t_5c2f079b549952 1-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "25bdb047e76a390fc9786400527918fa753eb3eb",
+  "prompts": {},
+  "sessions": {
+    "s_d2c5e8f18f5af9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "203376a8-29ef-43f0-bde6-197be7a751ba",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "ashgazer <ashik1000@hotmail.com>"
+    }
+  }
+}
