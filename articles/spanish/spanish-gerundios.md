@@ -3,8 +3,8 @@ tags:
   - result-spanish-gerundios
   - irregular-gerundios
   - stem-changing-gerundios
-  - regular-gerundios
   - spanish-verbs/result
+  - verb-conjugation
 ---
 
 # Spanish Gerundios (the *-ing* form)
