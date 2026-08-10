@@ -73,4 +73,32 @@ Use one for 4–6 weeks before considering another. Actives work over months any
 
 ---
 
+## The daily routine (once everything's phased in)
+
+### Morning
+
+1. **Cleanse** — or just rinse with water if your skin's on the dry side. Overnight you've only accumulated your own oil.
+2. **Azelaic acid** — thin layer, whole face rather than dabbing on individual marks. Give it a minute to settle.
+3. **Moisturiser** (the niacinamide one)
+4. **Sunscreen** — last, always. Two fingers' worth for face and neck, which is more than most people use.
+
+### Evening
+
+1. **Cleanse** — this one matters, since you're removing sunscreen. With a heavier SPF, a cleansing balm first isn't overkill.
+2. **Retinoid** — on dry skin, pea-sized amount for the whole face. Avoid the immediate eye area and the corners of the mouth.
+3. **Moisturiser**
+
+### Layering rule
+
+Thinnest to thickest, actives before moisturiser. Sunscreen is the only fixed position — last in the morning, over everything.
+
+### Practical notes
+
+- **Azelaic acid in the morning, retinoid at night.** Not because they can't be combined, but because splitting them halves the irritation risk. Retinoids also degrade in UV.
+- **Buffering** helps with the retinoid — moisturise first, then apply it on top. Blunts irritation while building tolerance. Work up from twice weekly to every other night. Nightly isn't necessary; three times a week gets most of the benefit.
+- **Skip the retinoid the night before and after shaving.** Freshly shaved skin plus a retinoid is a reliable route to irritation.
+- **If skin gets red or flaky, drop back a step** rather than pushing through. Cleanser, moisturiser, sunscreen for a few days, then resume at lower frequency.
+
+---
+
 *Not dermatological advice. For persistent melasma or dark marks, a GP referral is worth more than any routine — and avoid over-the-counter "fairness" or skin-lightening creams entirely, as they're frequently adulterated with mercury, steroids, or unlabelled hydroquinone.*
