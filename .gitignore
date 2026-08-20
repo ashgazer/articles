@@ -12,3 +12,5 @@ articles/.obsidian/*
 # OS/system clutter
 .DS_Store
 Thumbs.db
+
+recipes.md
