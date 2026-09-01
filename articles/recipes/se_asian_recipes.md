@@ -23,7 +23,7 @@
 | 19 | Crispy Chicken Breast, Thai-Style Rice & Peanut Sauce | Thai | Chicken | [recipe](https://www.gousto.co.uk/cookbook/recipes/crispy-chicken-breast-thai-style-rice-peanut-sauce) |
 | 20 | Fragrant Beef Massaman Curry | Thai | Beef | [recipe](https://www.gousto.co.uk/cookbook/recipes/fragrant-beef-massaman-curry) |
 | 21 | Fragrant Chicken Massaman With Peanuts & Rice | Thai | Chicken | [recipe](https://www.gousto.co.uk/cookbook/recipes/fragrant-chicken-massaman-with-peanuts-rice) |
-| 22 | Fragrant Thai Green Beef Curry | Thai | Beef | [recipe](https://www.gousto.co.uk/cookbook/recipes/fragrant-thai-green-beef-curry) |
+| 22 | [[Fragrant Thai Green Beef Curry]] | Thai | Beef | [recipe](https://www.gousto.co.uk/cookbook/recipes/fragrant-thai-green-beef-curry) |
 | 23 | Fragrant Thai Green Chicken Thigh Curry | Thai | Chicken | [recipe](https://www.gousto.co.uk/cookbook/recipes/fragrant-thai-green-chicken-thigh-curry) |
 | 24 | Fragrant Thai Red Chicken Curry | Thai | Chicken | [recipe](https://www.gousto.co.uk/cookbook/recipes/fragrant-thai-red-chicken-curry) |
 | 25 | Fragrant Thai-Style Chicken Stir-Fry With Rice | Thai | Chicken | [recipe](https://www.gousto.co.uk/cookbook/recipes/fragrant-thai-style-chicken-stir-fry-with-rice) |
@@ -62,7 +62,7 @@
 | 58 | Thai-Style Peanut Chicken Thigh Baked Wraps | Thai | Chicken | [recipe](https://www.gousto.co.uk/cookbook/recipes/thai-style-peanut-chicken-thigh-baked-wraps) |
 | 59 | Thai-Style Spiced Chicken Thigh, Leek & Potato Soup | Thai | Chicken | [recipe](https://www.gousto.co.uk/cookbook/recipes/thai-style-spiced-chicken-thigh-leek-potato-soup) |
 | 60 | Thai-Style Sticky Chilli Beef & Fragrant Rice Salad | Thai | Beef | [recipe](https://www.gousto.co.uk/cookbook/recipes/thai-style-sticky-chilli-beef-fragrant-rice-salad) |
-| 61 | Thai-Style Sticky Chilli Lean Beef & Rice Salad | Thai | Beef | [recipe](https://www.gousto.co.uk/cookbook/recipes/thai-style-sticky-chilli-lean-beef-rice-salad) |
+| 61 | [[Thai-Style Sticky Chilli Lean Beef & Rice Salad]] | Thai | Beef | [recipe](https://www.gousto.co.uk/cookbook/recipes/thai-style-sticky-chilli-lean-beef-rice-salad) |
 | 62 | Thai-Style Yellow Chicken Curry With Rice | Thai | Chicken | [recipe](https://www.gousto.co.uk/cookbook/recipes/thai-style-yellow-chicken-curry-with-rice) |
 | 63 | Zingy Thai-Style Coconut Chicken Wraps | Thai | Chicken | [recipe](https://www.gousto.co.uk/cookbook/recipes/zingy-thai-style-coconut-chicken-wraps) |
 | 64 | [street eats] Red Thai Curry Crispy Chicken Tacos | Thai | Chicken | [recipe](https://www.gousto.co.uk/cookbook/recipes/street-eats-red-thai-curry-crispy-chicken-tacos) |

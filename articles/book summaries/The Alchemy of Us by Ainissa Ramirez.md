@@ -110,7 +110,7 @@ In 1854, Irishman George Boole first discovered that simple statements of logic 
 
 ## Scientific glass improved electronic technologies and expanded our understanding of the universe.
 
-Glass is an ancient material with myriad uses. But before 1876, a scientific eye was not applied to glassmaking. Making glass was a trade, with glass recipes passed down from generation to generation – which resulted in glass whose properties were not uniform or predictable. Scientists wondered whether anything could be done to improve the glass they used in the lab.
+Glass is an ancient material with myriad uses. But before 1876, a scientific eye was not applied to glassmaking. Making glass was a trade, with glass [[recipes]] passed down from generation to generation – which resulted in glass whose properties were not uniform or predictable. Scientists wondered whether anything could be done to improve the glass they used in the lab.
 
 Professor Ernst Abbe of the University of Jena, in Germany, wrote a paper bemoaning the poor quality of the glass lenses in his telescopes and microscopes, calling for the development of new formulations of optical glass. Upon reading the paper, chemist and glassmaker Otto Schott contacted Abbe, who invited him to Jena to collaborate on the creation of high-quality scientific glass. The key message here is: Scientific glass improved electronic technologies and expanded our understanding of the universe. Schott successfully developed various high-quality glasses and, eventually, founded a specialized glass company in Jena. Schott’s Jena-inscribed scientific glass soon became the most desirable in the world. For decades, Germany was the main source for all telescope, microscope, and labware glass.
 
