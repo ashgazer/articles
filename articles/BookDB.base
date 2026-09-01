@@ -11,9 +11,12 @@ views:
       - title
       - author
       - Total Pages
+    sort:
+      - property: author
+        direction: ASC
     image: note.cover
-    imageAspectRatio: 1
-    cardSize: 230
+    imageAspectRatio: 1.55
+    cardSize: 150
     imageFit: contain
   - type: table
     name: Table
