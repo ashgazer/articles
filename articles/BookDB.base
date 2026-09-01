@@ -10,9 +10,11 @@ views:
     order:
       - title
       - author
-      - file.name
+      - Total Pages
     image: note.cover
     imageAspectRatio: 1
+    cardSize: 230
+    imageFit: contain
   - type: table
     name: Table
     filters:
