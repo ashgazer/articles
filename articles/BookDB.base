@@ -1,0 +1,25 @@
+properties:
+  file.name:
+    displayName: name
+views:
+  - type: cards
+    name: CardView
+    filters:
+      and:
+        - file.folder == "BookDB"
+    order:
+      - title
+      - author
+      - file.name
+    image: note.cover
+    imageAspectRatio: 1
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "BookDB"
+    order:
+      - title
+      - author
+      - file.ctime
+      - cover
