@@ -13,10 +13,11 @@ isbn 13: "9780307265838"
 Asin: 307265838
 Published: 2007/05/08
 Date read: ""
-cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1437952316i/17803.jpg
+cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1430642043i/3327199.jpg
 Link: https://www.goodreads.com/book/show/17803
 Tags:
   - haruki_murakami
   - after_dark
 Read: false
+electronic: false
 ---

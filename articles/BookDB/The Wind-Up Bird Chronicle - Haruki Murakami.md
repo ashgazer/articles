@@ -10,13 +10,14 @@ Publisher: Knopf
 Categories: Fiction, Magical Realism, Japan, Fantasy, Japanese Literature, Contemporary, Novels, Literature, Literary Fiction, Mystery
 isbn 10: "0965341984"
 isbn 13: "9780965341981"
-Asin: 0965341984
+Asin: 965341984
 Published: 1997/01/01
 Date read: ""
-Cover: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1327872639i/11275.jpg"
+Cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1327872639i/11275.jpg
 Link: https://www.goodreads.com/book/show/11275
 Tags:
-- haruki_murakami
-- the_windup_bird_chronicle
+  - haruki_murakami
+  - the_windup_bird_chronicle
 Read: false
+electronic: false
 ---

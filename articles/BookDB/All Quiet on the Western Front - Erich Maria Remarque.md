@@ -20,4 +20,5 @@ Tags:
   - all_quiet_on_the_western_front
 Read: false
 cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1785522394i/846136.jpg
+electronic: true
 ---

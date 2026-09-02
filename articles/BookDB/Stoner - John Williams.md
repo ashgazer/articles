@@ -20,4 +20,5 @@ Tags:
   - stoner
 Read: false
 cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1384819696i/18841055.jpg
+electronic: true
 ---

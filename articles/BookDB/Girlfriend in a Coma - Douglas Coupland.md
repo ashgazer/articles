@@ -18,5 +18,6 @@ Link: https://www.goodreads.com/book/show/3384
 Tags:
   - douglas_coupland
   - girlfriend_in_a_coma
-Read: false
+Read: true
+electronic: true
 ---

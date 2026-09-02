@@ -13,10 +13,11 @@ isbn 13: "9780679760801"
 Asin: 679760806
 Published: 1996/03/01
 Date read: ""
-cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1327867963i/117833.jpg
+cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1518558599i/6718272.jpg
 Link: https://www.goodreads.com/book/show/117833
 Tags:
   - mikhail_bulgakov
   - the_master_and_margarita
 Read: false
+electronic: false
 ---

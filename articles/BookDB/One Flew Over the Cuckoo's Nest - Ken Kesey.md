@@ -8,16 +8,16 @@ Description: "You've never met anyone like Randle Patrick McMurphy, the hero of 
 Total Pages: "277"
 Publisher: Viking
 Categories: Classics, Fiction, Psychology, Literature, Novels, Mental Health, School, Literary Fiction, Book Club, Banned Books
-isbn 10: "067002323X"
+isbn 10: 067002323X
 isbn 13: "9780670023233"
 Asin: 067002323X
 Published: 2012/01/19
 Date read: ""
-Cover: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1360102214i/12697427.jpg"
+Cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1516096781i/12946886.jpg
 Link: https://www.goodreads.com/book/show/12697427
 Tags:
-- ken_kesey
-- one_flew_over_the_cuckoos_nest
+  - ken_kesey
+  - one_flew_over_the_cuckoos_nest
 Read: false
 electronic: false
 ---

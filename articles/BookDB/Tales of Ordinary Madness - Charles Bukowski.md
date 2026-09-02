@@ -10,14 +10,14 @@ Publisher: City Lights Publishers
 Categories: Fiction, Short Stories, Poetry, Classics, American, Literature, The United States Of America, Americana, Novels, Contemporary
 isbn 10: "0872861554"
 isbn 13: "9780872861558"
-Asin: 0872861554
+Asin: 872861554
 Published: 1984/01/01
 Date read: ""
-Cover: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1388246934i/38503.jpg"
+Cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1742584438i/3038403.jpg
 Link: https://www.goodreads.com/book/show/38503
 Tags:
-- charles_bukowski
-- tales_of_ordinary_madness
+  - charles_bukowski
+  - tales_of_ordinary_madness
 Read: false
 electronic: false
 ---

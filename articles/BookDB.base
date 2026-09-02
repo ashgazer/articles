@@ -7,6 +7,7 @@ views:
     filters:
       and:
         - file.folder == "BookDB"
+        - read == false
     order:
       - title
       - author
@@ -26,5 +27,12 @@ views:
     order:
       - title
       - author
+      - read
+      - electronic
       - file.ctime
       - cover
+      - Publisher
+      - Categories
+    sort:
+      - property: Publisher
+        direction: ASC

@@ -13,10 +13,11 @@ isbn 13: "9781426406072"
 Asin: 142640607X
 Published: 2006/07/12
 Date read: ""
-cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1348449518i/169718.jpg
+cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1385165394i/11372.jpg
 Link: https://www.goodreads.com/book/show/169718
 Tags:
   - sinclair_lewis
   - babbitt
 Read: false
+electronic: false
 ---
