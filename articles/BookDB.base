@@ -8,13 +8,12 @@ views:
       and:
         - file.folder == "BookDB"
         - read == false
-        - electronic == false
     order:
       - title
       - author
       - Total Pages
     sort:
-      - property: author
+      - property: Author
         direction: ASC
     image: note.cover
     imageAspectRatio: 1.55
