@@ -19,5 +19,5 @@ Tags:
   - cormac_mccarthy
   - all_the_pretty_horses
 Read: false
-electronic: false
+electronic: true
 ---

@@ -19,5 +19,5 @@ Tags:
   - philip_k_dick
   - time_out_of_joint
 Read: false
-electronic: false
+electronic: true
 ---
