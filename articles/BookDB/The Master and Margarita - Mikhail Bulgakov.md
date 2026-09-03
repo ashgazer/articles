@@ -19,5 +19,5 @@ Tags:
   - mikhail_bulgakov
   - the_master_and_margarita
 Read: false
-electronic: false
+electronic: true
 ---
