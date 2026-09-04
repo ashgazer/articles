@@ -33,6 +33,8 @@ views:
       - cover
       - Publisher
       - Categories
+      - Total Pages
+      - Translator
     sort:
       - property: Publisher
-        direction: ASC
+        direction: DESC

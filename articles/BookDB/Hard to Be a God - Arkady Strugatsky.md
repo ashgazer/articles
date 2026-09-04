@@ -19,5 +19,5 @@ Tags:
   - arkady_strugatsky
   - hard_to_be_a_god
 Read: false
-electronic: false
+electronic: true
 ---

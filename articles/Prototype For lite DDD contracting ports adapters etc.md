@@ -66,7 +66,7 @@ Why it matters (per the PR): without this rule, someone "fixing" a violation cou
 NoOpaqueDependencyResolutionRule is an AST-level check specifically hunting for these string-keyed/opaque resolution patterns and flagging them as violations too, so that route is closed off.
 
 
-# what are o-ther layers
+# what are other layers
 
 Driving (inbound) side — where requests enter:
 - InboundAdapter — not just Http\Controllers, but also Http\Middleware, Console (CLI commands), Listeners, Observers, Jobs. Anything that's an entry point into the app counts as this layer. There's deliberately no "driving port" — an inbound adapter calls a use case directly, no interface in between on this side.
@@ -89,3 +89,4 @@ So the layer axis has 6 named layers total: InboundAdapter, Application, Ports, 
 
 
 ask about http layer and ask about h-ow controller should call a port 
+

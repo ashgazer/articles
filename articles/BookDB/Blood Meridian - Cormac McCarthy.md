@@ -19,5 +19,5 @@ Tags:
   - cormac_mccarthy
   - blood_meridian
 Read: false
-electronic: false
+electronic: true
 ---
