@@ -1,3 +1,12 @@
+---
+tags:
+  - result-port-definition
+  - adapters
+  - domain-ports
+  - contracts-api
+  - opaque-resolution/result
+---
+
 
 
 # What is a port and what is an adapter
