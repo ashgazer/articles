@@ -1,0 +1,15 @@
+views:
+  - type: cards
+    name: Games
+    filters:
+      and:
+        - file.folder == "Media DB/games"
+    order:
+      - Title
+      - developers
+      - genres
+    image: note.image
+    imageAspectRatio: 0.55
+    cardSize: 260
+  - type: table
+    name: Table

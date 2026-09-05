@@ -36,5 +36,7 @@ views:
       - Total Pages
       - Translator
     sort:
+      - property: Title
+        direction: ASC
       - property: Publisher
         direction: DESC
