@@ -1,3 +1,6 @@
+properties:
+  note.playing:
+    displayName: status
 views:
   - type: cards
     name: Games
@@ -7,9 +10,29 @@ views:
     order:
       - Title
       - developers
+      - publishers
       - genres
     image: note.image
     imageAspectRatio: 0.55
     cardSize: 260
   - type: table
     name: Table
+    filters:
+      and:
+        - file.folder == "Media DB/games"
+    order:
+      - file.name
+      - Title
+      - playing
+      - year
+      - developers
+      - publishers
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Publisher
+        direction: DESC
+      - property: developers
+        direction: ASC
+      - property: playing
+        direction: ASC

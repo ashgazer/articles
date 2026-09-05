@@ -23,4 +23,5 @@ releaseDate: 13/10/2022
 played: false
 personalRating: 0
 tags: mediaDB/game
+playing: playing
 ---

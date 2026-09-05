@@ -21,4 +21,5 @@ releaseDate: 2015-05-18
 played: false
 personalRating: 0
 tags: mediaDB/game
+playing: playing
 ---
