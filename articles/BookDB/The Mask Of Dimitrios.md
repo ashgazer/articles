@@ -1,6 +1,5 @@
 ---
-author:
-  - Eric Ambler
+author: Eric Ambler
 title: The Mask Of Dimitrios
 electronic: true
 read: false

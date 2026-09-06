@@ -1,6 +1,5 @@
 ---
-author:
-  - Kurt Vonnegut
+author: Kurt Vonnegut
 title: Galapagos
 electronic: true
 read: false
