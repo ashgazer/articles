@@ -1,13 +1,14 @@
 ---
-genre: classic
+genre:
 ---
 ```dataview
 
 TABLE WITHOUT ID key, length(rows) AS Count
 FROM "BookDB"
-WHERE contains(lower(join(Categories, ",")), lower(this.genre)) 
-FLATTEN categories AS cat
-GROUP BY cat
+FLATTEN split(Categories, ",") AS cat 
+GROUP BY lower(cat)
+sort length(rows) desc 
+limit 10
 
 
 
