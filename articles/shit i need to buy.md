@@ -7,8 +7,6 @@ tags:
 ---
 
 - slim wallet
-- shaver
-- onebag 
 - small sonic tooth brush
 - drummer ear plugs (let's get ones maid for the ears)
-- 
+- toothbrush cover 
