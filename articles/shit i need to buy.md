@@ -7,6 +7,5 @@ tags:
 ---
 
 - slim wallet
-- small sonic tooth brush
+- small sonic tooth brush - Ordo Sonic Lite
 - drummer ear plugs (let's get ones maid for the ears)
-- toothbrush cover 
