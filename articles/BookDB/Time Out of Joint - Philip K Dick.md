@@ -18,6 +18,6 @@ Link: https://www.goodreads.com/book/show/698034
 Tags:
   - philip_k_dick
   - time_out_of_joint
-Read: false
+Read: true
 electronic: true
 ---

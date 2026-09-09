@@ -157,3 +157,21 @@ def handle_create_user(request: UserRequest):
         raise HTTPException(status_code=400, detail=str(e))
 
 ```
+
+
+
+**low ceremony** means ==having very little overhead, boilerplate code, or administrative process required to get something done==. [[1](https://stackoverflow.com/questions/68092498/what-does-low-ceremony-mean), [2](https://www.linkedin.com/posts/david-otano_possible-hot-take-theres-too-much-ceremony-activity-7401317359464136705-bBZ2)]
+
+Code and Frameworks
+
+- **Less Boilerplate:** You write a small amount of code to achieve a goal, without repetitive interfaces, base classes, or configuration files. [[1](https://jasperfx.net/news/wolverine-undisputed-champion-low-ceremony-code), [2](https://stackoverflow.com/questions/68092498/what-does-low-ceremony-mean)]
+
+- **Convention over Configuration:** The system makes smart default choices so you do not have to declare every tiny setting manually. [[1](https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/february/patterns-in-practice-convention-over-configuration)]
+
+- **Example:** Moving from a heavy, multi-layered enterprise framework to a tool like [.NET Minimal APIs](https://www.telerik.com/blogs/low-ceremony-high-value-tour-minimal-apis-dotnet-6), where a basic web server takes just a couple of lines instead of dozens. [[1](https://www.telerik.com/blogs/low-ceremony-high-value-tour-minimal-apis-dotnet-6)]
+
+Process and Workflow
+
+- **Fewer Rules:** Teams skip heavy documentation, rigid gatekeeping, and bureaucratic approvals in favor of fast action.
+
+- **Focus on Value:** The energy goes into solving the actual problem rather than filling out tickets, updating tracking boards, or satisfying pipeline checks
