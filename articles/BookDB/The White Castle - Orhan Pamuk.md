@@ -10,14 +10,14 @@ Publisher: Faber & Faber
 Categories: Fiction, Historical Fiction, Turkish Literature, Turkish, Literature, Novels, Nobel Prize, Historical, Literary Fiction, Contemporary
 isbn 10: "0571164668"
 isbn 13: "9780571164660"
-Asin: 0571164668
+Asin: 571164668
 Published: 2000/07/26
 Date read: ""
-Cover: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1328521781i/11693.jpg"
+Cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1328521781i/11693.jpg
 Link: https://www.goodreads.com/book/show/11693
 Tags:
-- orhan_pamuk
-- the_white_castle
+  - orhan_pamuk
+  - the_white_castle
 Read: false
-electronic: false
+electronic: true
 ---
