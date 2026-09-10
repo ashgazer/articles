@@ -9,6 +9,7 @@ views:
         - file.folder == "BookDB"
         - read == false
         - recomendation != true
+        - electronic != true
     order:
       - title
       - author
