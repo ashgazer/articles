@@ -37,6 +37,7 @@ views:
       - Categories
       - Total Pages
       - Translator
+      - recomendation
     sort:
       - property: Title
         direction: ASC
