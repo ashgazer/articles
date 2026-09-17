@@ -7,7 +7,6 @@ views:
     filters:
       and:
         - file.folder == "Media DB/games"
-        - status == "playing"
     order:
       - Title
       - developers
