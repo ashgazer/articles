@@ -1,12 +1,18 @@
 ---
-title: "Inside the Box by David Epstein"
-source: "https://www.blinkist.com/reader/books/inside-the-box-en"
-author:
-published:
-created: 2026-09-14
-description: "Blinkist offers the key insights from top nonfiction in a made-for-mobile format. Get up to 65% off audiobooks, too. Learn anytime, anywhere!"
+title: Inside the Box by David Epstein
+source: https://www.blinkist.com/reader/books/inside-the-box-en
+author: null
+published: null
+created: 2026-09-14T00:00:00.000Z
+description: >-
+  Blinkist offers the key insights from top nonfiction in a made-for-mobile
+  format. Get up to 65% off audiobooks, too. Learn anytime, anywhere!
 tags:
-  - "clippings"
+  - themes
+  - productivity-techniques
+  - boundaries-increased-performance
+  - constraint-based-thinking
+  - organizational-thought-patterns/tag-list
 ---
 Want more? Get access to 9,000+ titles. [**Upgrade now**](https://www.blinkist.com/en/onboarding/matrix) to save 20% annually!
 
