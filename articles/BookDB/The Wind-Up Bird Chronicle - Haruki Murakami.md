@@ -19,5 +19,5 @@ Tags:
   - haruki_murakami
   - the_windup_bird_chronicle
 Read: false
-electronic: false
+electronic: true
 ---

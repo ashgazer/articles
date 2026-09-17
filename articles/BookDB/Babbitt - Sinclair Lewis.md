@@ -19,5 +19,5 @@ Tags:
   - sinclair_lewis
   - babbitt
 Read: false
-electronic: false
+electronic: true
 ---

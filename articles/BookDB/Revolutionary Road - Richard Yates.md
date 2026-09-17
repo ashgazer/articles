@@ -19,5 +19,5 @@ Tags:
   - richard_yates
   - revolutionary_road
 Read: false
-electronic: false
+electronic: true
 ---

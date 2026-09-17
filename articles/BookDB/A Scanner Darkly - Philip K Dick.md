@@ -19,5 +19,5 @@ Tags:
   - philip_k_dick
   - a_scanner_darkly
 Read: false
-electronic: false
+electronic: true
 ---

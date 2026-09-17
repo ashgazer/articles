@@ -19,5 +19,5 @@ Tags:
   - ken_kesey
   - one_flew_over_the_cuckoos_nest
 Read: false
-electronic: false
+electronic: true
 ---

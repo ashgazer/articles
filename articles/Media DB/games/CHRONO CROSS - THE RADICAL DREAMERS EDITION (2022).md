@@ -22,5 +22,6 @@ releaseDate: 2022-04-07
 played: false
 personalRating: 0
 tags: mediaDB/game
+status: playing
 playing: playing
 ---

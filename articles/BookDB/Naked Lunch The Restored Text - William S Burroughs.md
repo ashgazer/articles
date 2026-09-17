@@ -19,5 +19,5 @@ Tags:
   - william_s_burroughs
   - naked_lunch_the_restored_text
 Read: false
-electronic: false
+electronic: true
 ---

@@ -13,11 +13,11 @@ isbn 13: ""
 Asin: ""
 Published: 1989
 Date read: ""
-Cover: "https://covers.openlibrary.org/b/id/5413027-L.jpg"
+Cover: https://covers.openlibrary.org/b/id/5413027-L.jpg
 Link: https://openlibrary.org/works/OL50442W
 Tags:
-- charles_bukowski
-- hollywood
+  - charles_bukowski
+  - hollywood
 Read: false
-electronic: false
+electronic: true
 ---

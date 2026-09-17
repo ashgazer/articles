@@ -19,5 +19,5 @@ Tags:
   - haruki_murakami
   - after_dark
 Read: false
-electronic: false
+electronic: true
 ---

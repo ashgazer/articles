@@ -19,5 +19,5 @@ Tags:
   - william_golding
   - lord_of_the_flies
 Read: false
-electronic: false
+electronic: true
 ---

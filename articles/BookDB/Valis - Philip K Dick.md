@@ -19,5 +19,5 @@ Tags:
   - philip_k_dick
   - valis
 Read: false
-electronic: false
+electronic: true
 ---

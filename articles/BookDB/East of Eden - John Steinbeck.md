@@ -19,5 +19,5 @@ Tags:
   - john_steinbeck
   - east_of_eden
 Read: false
-electronic: false
+electronic: true
 ---

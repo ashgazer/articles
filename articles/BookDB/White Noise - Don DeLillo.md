@@ -19,6 +19,6 @@ Tags:
   - don_delillo
   - white_noise
 Read: false
-electronic: false
+electronic: true
 ---
 alt cover https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1327974391i/10542733.jpg

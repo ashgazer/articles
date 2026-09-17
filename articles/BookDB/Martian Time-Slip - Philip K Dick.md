@@ -19,5 +19,5 @@ Tags:
   - philip_k_dick
   - martian_timeslip
 Read: false
-electronic: false
+electronic: true
 ---

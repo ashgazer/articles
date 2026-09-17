@@ -19,5 +19,5 @@ Tags:
   - walter_tevis
   - mockingbird
 Read: false
-electronic: false
+electronic: true
 ---

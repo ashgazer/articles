@@ -19,5 +19,5 @@ Tags:
   - philip_k_dick
   - dr_bloodmoney
 Read: false
-electronic: false
+electronic: true
 ---

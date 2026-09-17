@@ -19,5 +19,5 @@ Tags:
   - hermann_hesse
   - the_glass_bead_game
 Read: false
-electronic: false
+electronic: true
 ---
