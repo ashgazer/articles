@@ -19,8 +19,8 @@ genres:
 onlineRating: 78
 released: true
 releaseDate: 2003-05-23
-played: false
+played: true
 personalRating: 0
 tags: mediaDB/game
-playing: playing
+playing: complete
 ---

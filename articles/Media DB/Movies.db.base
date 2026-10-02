@@ -1,0 +1,15 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "Media DB/movies"
+    image: note.image
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Media DB/movies")
+    order:
+      - file.name
+      - image
