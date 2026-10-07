@@ -18,6 +18,6 @@ Link: https://www.goodreads.com/book/show/59924
 Tags:
   - ursula_k_le_guin
   - the_lathe_of_heaven
-Read: false
+Read: true
 electronic: true
 ---
