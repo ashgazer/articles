@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.folder == "Media DB/movies"
+        - watched == false
     image: note.image
   - type: cards
     name: Table

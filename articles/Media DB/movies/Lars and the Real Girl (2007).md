@@ -33,7 +33,7 @@ boxOffice: $5,972,884
 ageRating: PG-13
 streamingServices: []
 premiere: 02/11/2007
-watched: false
+watched: true
 lastWatched: ""
 personalRating: 0
 tags: mediaDB/tv/movie
