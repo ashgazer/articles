@@ -19,7 +19,7 @@ genres:
 onlineRating: 82
 released: true
 releaseDate: 2022-10-27
-played: false
+played: true
 personalRating: 0
 tags: mediaDB/game
 playing: playing
