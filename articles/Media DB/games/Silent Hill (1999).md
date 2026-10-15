@@ -17,7 +17,7 @@ genres:
 onlineRating: 86
 released: true
 releaseDate: 1999-01-31
-played: false
+played: true
 personalRating: 0
 tags: mediaDB/game
 ---

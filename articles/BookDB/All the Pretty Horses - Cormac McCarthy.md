@@ -18,6 +18,7 @@ Link: https://www.goodreads.com/book/show/469571
 Tags:
   - cormac_mccarthy
   - all_the_pretty_horses
-Read: false
+Read: true
 electronic: true
 ---
+John Grady is a great character. I feel like this really is a man's book. more of a relationship between rawlins and his horse than alexejandra 
