@@ -31,8 +31,9 @@ boxOffice: N/A
 ageRating: N/A
 streamingServices: []
 premiere: 06/08/1999
-watched: false
+watched: true
 lastWatched: ""
 personalRating: 0
 tags: mediaDB/tv/movie
 ---
+Meh was okay. interesting to see mads and nicholas in their early days before they went on to be big stars
